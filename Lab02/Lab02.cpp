@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	// feature branch 1
 	double alpha, z1, z2;
 	cout << "alpha = "; cin >> alpha;
 	z1 = (sin(alpha) + sin(5 * alpha) - sin(3 * alpha)) / (cos(alpha) - cos(3 * alpha) + cos(5 * alpha));
